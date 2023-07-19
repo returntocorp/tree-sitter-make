@@ -1,0 +1,6 @@
+Unfortunately the original author of tree-sitter-make is not responsive,
+so we had to fork it, but we still want the opportunity to maybe
+one day merge changes to the original repo, so for now it's better
+to use a different "main" branch that we called 'main_semgrep', so
+please when you add changes, or if you pull the latest tree-sitter-make
+in ocaml-tree-sitter-semgrep, please use the 'main_semgrep' branch.
